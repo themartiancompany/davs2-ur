@@ -29,7 +29,7 @@ arch=(
 pkgdesc='Open-Source decoder of AVS2-P2/IEEE1857.4 video coding standard'
 _http="https://github.com"
 _ns="pkuvcl"
-url="${http}/${_ns}/${_pkg}"
+url="${_http}/${_ns}/${_pkg}"
 license=(
   'GPL'
 )
